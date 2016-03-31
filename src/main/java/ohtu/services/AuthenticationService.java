@@ -51,10 +51,12 @@ public class AuthenticationService {
     }
 
     private boolean userAndPassword(String username, String password) {
-        return username.matches("[a-z]+") == false || username.length() < 3 && password.length() < 8;
+        return username.matches("[a-z]+") == false || username.length() < 3 || password.length() < 8;
     }
 
     private boolean eiKirjainta(String salasana, Integer luku) {
+        Integer joku = 0;
+        
         for (int i = 0; i < salasana.length(); i++) {
             luku = check(salasana, luku, i);
         }
