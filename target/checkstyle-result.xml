@@ -15,5 +15,6 @@
 <file name="/Users/Sara/ohtu-viikko3/src/main/java/ohtu/io/StubIO.java">
 </file>
 <file name="/Users/Sara/ohtu-viikko3/src/main/java/ohtu/services/AuthenticationService.java">
+<error line="57" column="5" severity="error" message="Metodin pituus on 12 riviÃ¤ (suurin sallittu on 10)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
 </file>
 </checkstyle>

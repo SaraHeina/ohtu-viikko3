@@ -55,8 +55,6 @@ public class AuthenticationService {
     }
 
     private boolean eiKirjainta(String salasana, Integer luku) {
-        Integer joku = 0;
-        
         for (int i = 0; i < salasana.length(); i++) {
             luku = check(salasana, luku, i);
         }
