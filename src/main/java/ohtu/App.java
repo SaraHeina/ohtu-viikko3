@@ -14,6 +14,7 @@ public class App {
     private AuthenticationService auth;
 
     public App(IO io, AuthenticationService auth) {
+        
         this.io = io;
         this.auth = auth;
     }
