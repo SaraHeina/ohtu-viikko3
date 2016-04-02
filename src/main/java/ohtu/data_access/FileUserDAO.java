@@ -24,9 +24,9 @@ public class FileUserDAO implements UserDao {
         } catch (FileNotFoundException e) {
             System.out.println("Error to found data file");
         }
-        while (lukija.hasNextLine()) {
-            String name = lukija.nextLine();
-            String password = lukija.nextLine();
+        while (lukija.hasNext()) {
+            String name = lukija.next();
+            String password = lukija.next();
             User user = new User(name, password);
             users.add(user);
         }
