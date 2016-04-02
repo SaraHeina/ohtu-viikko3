@@ -1,0 +1,5 @@
+##Start, Stop, Continue, More of, Less of Wheel
+Tekniikalla voidaan lyhyessä ajassa (noin 10-25 min) kerätä ideoita tiimiltä, siitä mitä asioita kannattaa jatkaa, aloittaa, lopettaa, tehdä enemmän tai vähemmän. Ideana on piirtää ympyrä joka jaetaan 5 osaan, jokaisen osan kohdalle kirjoitetaan yksi otsikon kohdista. Tämän jälkeen kerätään/kysytään ideoita jokaiseen ympyrän osaan: mitä tulisi jatkaa?, mitä tulisi tehdä vähemmän?. Kun tämä on tehty keskusteellaan ideoista ja päätetään mitkä ideat pyritään toteuttamaan.
+
+##Glad, Sad, Mad
+Tapaamisessa jokainen tiimin jäsen kirjoittaa pienille korteille lyhyitä havaintoja, jotka liittyvät otsikon kategorioihin: positiivisia, negatiivisia asioita sprintistä tai jotain muita valituksen aiheita. Sitten kaikki kiinnittävät korttinsa taululle niiden kategorioiden mukaisiin paikkoihin, samaa aihetta koskevat kortit kootaan yhteen. Tämän jälkeen jokainen jäsen äänestää mistä korteista hän haluaa keskustela. Kun tämä on tehty korteista keskustellaan aloittaen eniten ääniä saaneesta kortista, keskustelu päättyy kun asiat on käsitelty tai aika (60 min) on loppunut.
