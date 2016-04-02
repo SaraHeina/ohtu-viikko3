@@ -14,7 +14,7 @@ public class App {
     private AuthenticationService auth;
 
     public App(IO io, AuthenticationService auth) {
-        
+
         this.io = io;
         this.auth = auth;
     }
@@ -65,8 +65,7 @@ public class App {
     public static void main(String[] args) {
         ApplicationContext ctx = new FileSystemXmlApplicationContext("src/main/resources/spring-context.xml");
 
-        App application = ctx.getBean(App.class
-        );
+        App application = ctx.getBean(App.class);
         application.run();
     }
 
